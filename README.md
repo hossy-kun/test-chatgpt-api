@@ -4,7 +4,7 @@
 
 OpenAIのChatGPTAPI(gpt-3.5-turbo)の呼び出しサンプル。
 
-今日の夕食のレシピを教えてくれます。
+ハナコさんが、今日の夕食のレシピを教えてくれます。
 
 ## Requirement
 
