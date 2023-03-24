@@ -1,0 +1,31 @@
+{
+  "name": "test-chatgpt-api",
+  "version": "1.0.0",
+  "description": "test chatgpt api",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsx --require dotenv/config src/index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hossy-kun/test-chatgpt-api.git"
+  },
+  "keywords": [],
+  "author": "hossy-kun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hossy-kun/test-chatgpt-api/issues"
+  },
+  "homepage": "https://github.com/hossy-kun/test-chatgpt-api#readme",
+  "devDependencies": {
+    "@types/node": "^18.15.5",
+    "tsx": "^3.12.6",
+    "typescript": "^5.0.2"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "openai": "^3.2.1"
+  }
+}
